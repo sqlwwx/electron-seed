@@ -6,7 +6,11 @@
   "author": "sqlwwx <wwx_2012@hotmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "electron": "^1.6.1"
+    "electron": "^1.6.1",
+    "eslint": "^3.17.0",
+    "eslint-config-standard": "^7.0.0",
+    "eslint-plugin-promise": "^3.5.0",
+    "eslint-plugin-standard": "^2.1.1"
   },
   "scripts": {
     "start": "NODE_ENV=development electron ."
