@@ -1,0 +1,8 @@
+{
+  "name": "electron-seed",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:sqlwwx/electron-seed.git",
+  "author": "sqlwwx <wwx_2012@hotmail.com>",
+  "license": "MIT"
+}
