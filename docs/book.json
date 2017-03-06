@@ -1,0 +1,18 @@
+{
+  "plugins": [
+    "-lunr",
+    "-search",
+    "search-pro",
+    "edit-link",
+    "github",
+    "todo"
+  ],
+  "pluginsConfig": {
+    "edit-link": {
+      "base": "https://github.com/sqlwwx/electron-seed/tree/dev/docs"
+    },
+    "github": {
+      "url": "https://github.com/sqlwwx/electron-seed"
+    }
+  }
+}

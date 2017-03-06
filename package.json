@@ -19,6 +19,8 @@
     "start": "cross-env NODE_ENV=development electron ./app",
     "lint": "eslint --ext .js -f ./node_modules/eslint-friendly-formatter .",
     "lint:fix": "eslint --ext .js -f ./node_modules/eslint-friendly-formatter --fix .",
+    "docs": "cd docs && gitbook install && gitbook serve",
+    "docs:deploy": "bash ./build/update-docs.sh",
     "build:dir": "build --dir",
     "build": "build"
   },
