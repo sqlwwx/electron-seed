@@ -3,5 +3,6 @@
   "version": "1.0.0",
   "main": "main.js",
   "author": "sqlwwx <wwx_2012@hotmail.com>",
+  "description": "electron-seed",
   "license": "MIT"
 }
