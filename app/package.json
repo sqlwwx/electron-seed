@@ -1,0 +1,7 @@
+{
+  "name": "electron-seed",
+  "version": "1.0.0",
+  "main": "main.js",
+  "author": "sqlwwx <wwx_2012@hotmail.com>",
+  "license": "MIT"
+}
